@@ -1,0 +1,6 @@
+certifi==2022.6.15
+cloudinary==1.29.0
+python-dotenv==0.20.0
+pytz==2022.1
+six==1.16.0
+urllib3==1.26.11
