@@ -24,4 +24,5 @@ def uploadBackup():
 
 uploadBackup()
 
-# * * * * * /root/.pyenv/versions/db-backup-script/bin/python /root/db-backup-script/main.py
+# For run cron job every day at 00:00
+# 0 0 * * * /root/.pyenv/versions/db-backup-script/bin/python /root/db-backup-script/main.py
